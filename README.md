@@ -59,3 +59,6 @@ Once an ArgoCD Application is pointed at this repo's `todo-chart/` path with aut
   - Chart.yaml
   - values.yaml — Configurable settings (image tag, port, probes)
   - templates/ — Kubernetes manifest templates
+
+  
+<img width="1583" height="475" alt="image" src="https://github.com/user-attachments/assets/4fc7b85f-43c4-49d4-b83d-cbe906f24040" />
